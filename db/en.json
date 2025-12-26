@@ -1,0 +1,124 @@
+{
+    "profile": {
+      "name": "Mohammed Mohsen",
+      "work": "Full-stack Web Developer"
+    },
+  
+    "autocomplete": {
+      "options": ["Service Booking", "Restaurant Management", "E-commerce Stores", "Personal Portfolio"]
+    },
+  
+    "heading": {
+      "about": "A Glimpse Into My Journey",
+      "skills": "The Tools I Master",
+      "contact": "Let’s Build Something Great",
+      "projects": "Projects I’m Proud Of"
+    },
+  
+    "accounts": {
+      "names": ["GitHub", "Gmail", "Facebook", "Telegram", "Phone Number"],
+      "links": [
+        "www.github.com/ENGmohammedmohsen",
+        "www.MohammedMohseng@gmail.com",
+        "www.facebook.com/profile/mohammedmohseng",
+        "t.me/mohammedmohseng",
+        ["00249992161079 ", "00249901116470"]
+      ]
+    },
+  
+    "localLinks": {
+      "names": ["Home", "About Me", "My Skills", "Contact Me", "My Works"],
+      "urls": [
+        "index.html#header",
+        "index.html#about",
+        "index.html#skills",
+        "index.html#contact",
+        "index.html#project"
+      ]
+    },
+  
+    "pictures": {
+      "profile": {
+        "url": "./assestent/profile.jpg",
+        "alt": "Mohammed Mohsen - A developer passionate about turning ideas into reality"
+      },
+      "aboutPic1": {
+        "url": "./assestent/pic-1.jpg",
+        "alt": "Visual representation of a focused programming environment"
+      },
+      "aboutPic2": {
+        "url": "./assestent/pic-2.jpg",
+        "alt": "Symbolizing creativity and logic in code"
+      },
+      "contactMassage": {
+        "url": "./assestent/contact.jpg",
+        "alt": "A space dedicated to communication and partnership"
+      },
+      "contactWork": {
+        "url": "./assestent/work.jpg",
+        "alt": "Representing hard work and professional collaboration"
+      }
+    },
+  
+    "about": {
+      "paragraphs": [
+        "I am Mohammed, a developer who sees code as a medium for solving real-world problems rather than just lines of text. My journey in web development began with pure curiosity, which evolved into a passion for building integrated platforms that balance stunning design with robust performance.",
+        "I believe a successful user interface is one that truly understands the visitor's needs, and that clean code is the foundation of any sustainable project. I am always eager to learn new technologies to stay ahead in this fast-paced world, putting all my expertise into ensuring every project is delivered at its absolute best."
+      ]
+    },
+  
+    "skills": {
+      "progress": [90, 85, 80, 75, 70],
+      "names": ["HTML5", "CSS3", "JavaScript", "Sass", "React.js"],
+      "pictures": [
+        "./assestent/project-banking.jpg",
+        "./assestent/project-banking.jpg",
+        "./assestent/project-banking.jpg",
+        "./assestent/project-banking.jpg",
+        "./assestent/project-banking.jpg"
+      ],
+      "describtion": [
+        "The cornerstone for building well-structured and standard-compliant web pages.",
+        "My tool for transforming static designs into interactive, beautifully organized layouts.",
+        "The core engine I use to inject intelligence and real-time interaction into the web.",
+        "My preferred way to write professional, scalable, and maintainable CSS styles.",
+        "The library I rely on to build complex, fast, and incredibly smooth user interfaces."
+      ]
+    },
+  
+    "projects": {
+      "id": [1, 2, 3],
+      "names": ["Sudella Platform", "Responsive Portfolio", "Smart Restaurant App"],
+      "pictures": [
+        "./assestent/project-ecommerce.jpg",
+        "./assestent/project-portfolio.jpg",
+        "./assestent/project-restaurant.jpg"
+      ],
+  
+      "links": ["sudella.com", "portfolio.com", "restrant.com"],
+  
+      "ticnics": [
+        ["JavaScript", "TypeScript", "Sass"],
+        ["HTML5", "CSS3", "JavaScript"],
+        ["TailwindCSS", "Node.js", "React"]
+      ],
+  
+      "details": [
+        "The 'Sudella' project is an exploration in building a comprehensive e-commerce store, where I focused on browsing speed and checkout simplicity while ensuring data security.",
+        "This website you are currently browsing is the result of my efforts to merge simplicity with professionalism, aiming to represent my identity and make my skills easily accessible.",
+        "A dedicated restaurant application designed to digitize the ordering and booking process, providing a practical solution for owners and a modern experience for customers."
+      ]
+    },
+  
+    "footer": {
+      "links": ["My Story", "My Skills", "Contact Me"],
+  
+      "urls": ["index.html#about", "index.html#skills", "index.html#contact"],
+      "names": ["GitHub", "Facebook", "Telegram"],
+      "account": [
+        "www.github.com/ENGmohammedmohsen",
+        "www.facebook.com/profile/mohammedmohseng",
+        "t.me/mohammedmohseng"
+      ]
+    }
+  }

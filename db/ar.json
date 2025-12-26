@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "name": "محمد محسن",
+    "work": "مطور ويب متكامل (Full-stack)"
+  },
+
+  "autocomplete": {
+    "options": ["حجز خدمات", "إدارة مطاعم", "متاجر إلكترونية", "معرض أعمال شخصي"]
+  },
+
+  "heading": {
+    "about": "لمحة عن رحلتي",
+    "skills": "الأدوات التي أتقنها",
+    "contact": "دعنا نبني شيئاً رائعاً",
+    "projects": "مشاريع فخور بإنجازها"
+  },
+
+  "accounts": {
+    "names": ["GitHub", "Gmail", "Facebook", "Telegram", "رقم الهاتف"],
+    "links": [
+      "www.github.com/ENGmohammedmohsen",
+      "www.MohammedMohseng@gmail.com",
+      "www.facebook.com/profile/mohammedmohseng",
+      "t.me/mohammedmohseng",
+      ["00249992161079 ", "00249901116470"]
+    ]
+  },
+
+  "localLinks": {
+    "names": ["الرئيسية", "من أنا", "مهاراتي", "تواصل معي", "أعمالي"],
+    "urls": [
+      "index.html#header",
+      "index.html#about",
+      "index.html#skills",
+      "index.html#contact",
+      "index.html#project"
+    ]
+  },
+
+  "pictures": {
+    "profile": {
+      "url": "./assestent/profile.jpg",
+      "alt": "صورة محمد محسن - مطور ويب شغوف بتحويل الأفكار إلى واقع"
+    },
+    "aboutPic1": {
+      "url": "./assestent/pic-1.jpg",
+      "alt": "صورة تعكس بيئة العمل والتركيز البرمجي"
+    },
+    "aboutPic2": {
+      "url": "./assestent/pic-2.jpg",
+      "alt": "صورة تعبيرية عن الإبداع في البرمجة"
+    },
+    "contactMassage": {
+      "url": "./assestent/contact.jpg",
+      "alt": "مساحة مخصصة للتواصل وبناء الشراكات"
+    },
+    "contactWork": {
+      "url": "./assestent/work.jpg",
+      "alt": "صورة تعبر عن العمل الجاد والتعاون"
+    }
+  },
+
+  "about": {
+    "paragraphs": [
+      "أنا محمد، مبرمج يرى في الكود وسيلة لحل المشكلات الحقيقية وليس مجرد أسطر نصية. بدأت رحلتي في تطوير الويب بدافع الفضول، وتحول هذا الفضول إلى شغف ببناء منصات متكاملة تجمع بين التصميم الجذاب والأداء القوي.",
+      "أؤمن بأن واجهة المستخدم الناجحة هي التي تفهم احتياج الزائر، وبأن الكود النظيف هو أساس أي مشروع مستدام. أسعى دائماً لتعلم تقنيات جديدة لأبقى مواكباً لهذا العالم المتسارع، وأضع كل خبرتي لضمان خروج كل مشروع بأفضل صورة ممكنة."
+    ]
+  },
+
+  "skills": {
+    "progress": [90, 85, 80, 75, 70],
+    "names": ["HTML5", "CSS3", "JavaScript", "Sass", "React.js"],
+    "pictures": [
+      "./assestent/project-banking.jpg",
+      "./assestent/project-banking.jpg",
+      "./assestent/project-banking.jpg",
+      "./assestent/project-banking.jpg",
+      "./assestent/project-banking.jpg"
+    ],
+    "describtion": [
+      "حجر الأساس لبناء صفحات ويب منظمة وذات هيكلية معيارية سليمة.",
+      "أداتي لتحويل التصاميم الصامتة إلى لوحات فنية متفاعلة ومنظمة.",
+      "المحرك الأساسي الذي أستخدمه لإضافة الذكاء والتفاعل الحي في صفحات الويب.",
+      "طريقتي المفضلة لكتابة تنسيقات CSS بشكل أكثر احترافية وقابلية للتوسع.",
+      "المكتبة التي أعتمد عليها لبناء واجهات مستخدم معقدة، سريعة، وسلسة للغاية."
+    ]
+  },
+
+  "projects": {
+    "id": [1, 2, 3],
+    "names": ["منصة سوديلا", "معرض أعمالي المتجاوب", "تطبيق المطعم الذكي"],
+    "pictures": [
+      "./assestent/project-ecommerce.jpg",
+      "./assestent/project-portfolio.jpg",
+      "./assestent/project-restaurant.jpg"
+    ],
+
+    "links": ["sudella.com", "portfolio.com", "restrant.com"],
+
+    "ticnics": [
+      ["JavaScript", "TypeScript", "Sass"],
+      ["HTML5", "CSS3", "JavaScript"],
+      ["TailwindCSS", "Node.js", "React"]
+    ],
+
+    "details": [
+      "مشروع 'سوديلا' هو تجربة في بناء متجر إلكتروني متكامل، ركزت فيه على سرعة التصفح وسهولة إتمام عملية الشراء، مع ضمان أمان البيانات وتوفير واجهة مريحة للمستخدم العربي.",
+      "هذا الموقع الذي تتصفحه الآن هو نتاج محاولاتي لدمج البساطة بالاحترافية؛ حيث حرصت على أن يعبر عن هويتي كمطور ويسهل على أصحاب العمل الوصول إلى مهاراتي بوضوح.",
+      "تطبيق مخصص للمطاعم يهدف لرقمنة عملية الطلب والحجز، صممته ليكون حلاً عملياً يساعد أصحاب المطاعم على تنظيم طلباتهم ويوفر للزبائن تجربة حجز عصرية دون عناء."
+    ]
+  },
+
+  "footer": {
+    "links": ["قصتي", "مهاراتي", "تواصل معي"],
+
+    "urls": ["index.html#about", "index.html#skills", "index.html#contact"],
+    "names": ["GitHub", "Facebook", "Telegram"],
+    "account": [
+      "www.github.com/ENGmohammedmohsen",
+      "www.facebook.com/profile/mohammedmohseng",
+      "t.me/mohammedmohseng"
+    ]
+  }
+}

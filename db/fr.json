@@ -1,0 +1,124 @@
+{
+    "profile": {
+      "name": "Mohammed Mohsen",
+      "work": "Développeur Web Full-stack"
+    },
+  
+    "autocomplete": {
+      "options": ["Réservation de Services", "Gestion de Restaurant", "Boutiques en ligne", "Portfolio Personnel"]
+    },
+  
+    "heading": {
+      "about": "Un aperçu de mon parcours",
+      "skills": "Les outils que je maîtrise",
+      "contact": "Bâtissons quelque chose de grand",
+      "projects": "Projets dont je suis fier"
+    },
+  
+    "accounts": {
+      "names": ["GitHub", "Gmail", "Facebook", "Telegram", "Numéro de téléphone"],
+      "links": [
+        "www.github.com/ENGmohammedmohsen",
+        "www.MohammedMohseng@gmail.com",
+        "www.facebook.com/profile/mohammedmohseng",
+        "t.me/mohammedmohseng",
+        ["00249992161079 ", "00249901116470"]
+      ]
+    },
+  
+    "localLinks": {
+      "names": ["Accueil", "À propos", "Mes Compétences", "Contact", "Mes Travaux"],
+      "urls": [
+        "index.html#header",
+        "index.html#about",
+        "index.html#skills",
+        "index.html#contact",
+        "index.html#project"
+      ]
+    },
+  
+    "pictures": {
+      "profile": {
+        "url": "./assestent/profile.jpg",
+        "alt": "Mohammed Mohsen - Développeur passionné par la transformation des idées en réalité"
+      },
+      "aboutPic1": {
+        "url": "./assestent/pic-1.jpg",
+        "alt": "Représentation visuelle d'un environnement de programmation focalisé"
+      },
+      "aboutPic2": {
+        "url": "./assestent/pic-2.jpg",
+        "alt": "Symbolisant la créativité et la logique dans le code"
+      },
+      "contactMassage": {
+        "url": "./assestent/contact.jpg",
+        "alt": "Un espace dédié à la communication et au partenariat"
+      },
+      "contactWork": {
+        "url": "./assestent/work.jpg",
+        "alt": "Représentant le travail acharné et la collaboration professionnelle"
+      }
+    },
+  
+    "about": {
+      "paragraphs": [
+        "Je suis Mohammed, un développeur qui voit le code comme un moyen de résoudre des problèmes réels plutôt que de simples lignes de texte. Mon parcours a commencé par une simple curiosité, qui s'est transformée en une passion pour la création de plateformes intégrées alliant design élégant et performances robustes.",
+        "Je crois qu'une interface réussie est celle qui comprend réellement les besoins du visiteur, et qu'un code propre est la base de tout projet durable. Je cherche toujours à apprendre de nouvelles technologies pour rester à la pointe, mettant toute mon expertise au service de chaque projet."
+      ]
+    },
+  
+    "skills": {
+      "progress": [90, 85, 80, 75, 70],
+      "names": ["HTML5", "CSS3", "JavaScript", "Sass", "React.js"],
+      "pictures": [
+        "./assestent/project-banking.jpg",
+        "./assestent/project-banking.jpg",
+        "./assestent/project-banking.jpg",
+        "./assestent/project-banking.jpg",
+        "./assestent/project-banking.jpg"
+      ],
+      "describtion": [
+        "La pierre angulaire pour construire des pages web bien structurées et conformes aux normes.",
+        "Mon outil pour transformer des designs statiques en mises en page interactives et harmonieuses.",
+        "Le moteur principal que j'utilise pour injecter de l'intelligence et de l'interaction en temps réel.",
+        "Ma méthode préférée pour écrire des styles CSS professionnels, évolutifs et maintenables.",
+        "La bibliothèque sur laquelle je compte pour bâtir des interfaces complexes, rapides et fluides."
+      ]
+    },
+  
+    "projects": {
+      "id": [1, 2, 3],
+      "names": ["Plateforme Sudella", "Portfolio Responsif", "App Restaurant Intelligent"],
+      "pictures": [
+        "./assestent/project-ecommerce.jpg",
+        "./assestent/project-portfolio.jpg",
+        "./assestent/project-restaurant.jpg"
+      ],
+  
+      "links": ["sudella.com", "portfolio.com", "restrant.com"],
+  
+      "ticnics": [
+        ["JavaScript", "TypeScript", "Sass"],
+        ["HTML5", "CSS3", "JavaScript"],
+        ["TailwindCSS", "Node.js", "React"]
+      ],
+  
+      "details": [
+        "Le projet 'Sudella' est une exploration dans la création d'une boutique e-commerce complète, où je me suis concentré sur la vitesse de navigation et la simplicité du paiement.",
+        "Ce site que vous parcourez actuellement est le fruit de mes efforts pour fusionner simplicité et professionnalisme, afin de représenter mon identité de développeur.",
+        "Une application dédiée aux restaurants visant à numériser le processus de commande et de réservation, offrant une solution pratique pour les propriétaires et les clients."
+      ]
+    },
+  
+    "footer": {
+      "links": ["Mon Histoire", "Mes Compétences", "Contact"],
+  
+      "urls": ["index.html#about", "index.html#skills", "index.html#contact"],
+      "names": ["GitHub", "Facebook", "Telegram"],
+      "account": [
+        "www.github.com/ENGmohammedmohsen",
+        "www.facebook.com/profile/mohammedmohseng",
+        "t.me/mohammedmohseng"
+      ]
+    }
+  }

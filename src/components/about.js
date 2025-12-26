@@ -1,5 +1,5 @@
 import { Space } from "./functions.js";
-import { content } from "./../../db/content.ar.js";
+import { content } from "./../../db/content.js";
 
 export const About = () => {
   return `
